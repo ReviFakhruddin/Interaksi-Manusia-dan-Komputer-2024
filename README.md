@@ -3,17 +3,16 @@ Dokumen ini adalah laporan Ujian Akhir Semester (UAS) untuk mata kuliah Interaks
 
 Daftar Isi
 BAB I PENDAHULUAN
-
 Latar Belakang
 Tujuan
-BAB II METODOLOGI
 
+BAB II METODOLOGI
 Langkah-langkah Pengembangan
 Pengumpulan Data
 Desain Wireframe
 Implementasi
-BAB III DESKRIPSI SHOWCASE
 
+BAB III DESKRIPSI SHOWCASE
 Wireframe
 Navigation Bar
 Homepage
@@ -27,16 +26,16 @@ User Review
 About Us
 TOS & PP
 Footer
-BAB IV EVALUASI IMK
 
+BAB IV EVALUASI IMK
 Pengujian Kegunaan
 Feedback Pengguna
 Analisis Kualitas Tampilan
 Evaluasi Fungsionalitas
 Pengujian Responsif
 Feedback dan Perbaikan
-BAB V KESIMPULAN DAN LAMPIRAN
 
+BAB V KESIMPULAN DAN LAMPIRAN
 Kesimpulan
 Saran
 Lampiran
